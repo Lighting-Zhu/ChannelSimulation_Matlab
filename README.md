@@ -1,2 +1,2 @@
 # ChannelSimulation_Matlab
-Simulation of fading channel using various modulation, diversity and combining
+Simulation of AWGN and fading channel using various modulation, diversity and combining
