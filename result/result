@@ -1,0 +1,7 @@
+Result of simulations and comparison with theoretical curves.
+
+channel in simulation: AWGN channel, Rayleigh channel
+modulation: BPSK, QPSK, 8PSK, 16QAM(Gray Code mapping)
+Eb/N0: -10 ~ 10dB
+the order of diversity in Rayleigh Channel: 1, 4, 8(maximal-ratial combining)
+combining methods: maximal-ratial combining, equal-gain combining, selevtive combining
